@@ -13,6 +13,6 @@ import { AppComponent } from './app.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent] // Hnagi Companetten başlayacağını belirleyen yerdir
 })
 export class AppModule { }
