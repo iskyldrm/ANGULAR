@@ -12,4 +12,7 @@ export class SolmenuComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  orderclick(){
+    alert("tıklandı")
+  }
 }
